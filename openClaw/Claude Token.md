@@ -1,0 +1,2 @@
+Your OAuth token (valid for 1 year):    20260304                                                    
+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
